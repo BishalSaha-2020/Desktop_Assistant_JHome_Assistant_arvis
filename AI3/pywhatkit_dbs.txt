@@ -1,0 +1,61 @@
+--------------------
+Date: 19:6:2022
+Time: 11:32
+Phone number: +917585848226
+Message: hello hi bye
+--------------------
+Date: 19:6:2022
+Time: 11:36
+Phone number: +917585848226
+Message: none
+--------------------
+Date: 19:6:2022
+Time: 11:40
+Phone number: +917585848226
+Message: the message
+--------------------
+Date: 19:6:2022
+Time: 19:47
+Phone number: +917585848226
+Message: Hey,This is Your Fellow Arduino UNO.I have turned ON Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 19:57
+Phone number: +917585848226
+Message: Hey,This is Your Fellow Arduino UNO.I have turned ON Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 19:59
+Phone number: +919150146250
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 20:2
+Phone number: +919150146250
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 20:2
+Phone number: +919150146250
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 20:10
+Phone number: +919150146250
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 20:34
+Phone number: +919150146250
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 21:10
+Phone number: +917585848186
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
+Date: 19:6:2022
+Time: 21:13
+Phone number: +917585848186
+Message: Hey...........,This is Your Fellow Arduino UNO.I have turned OFF Lights,OKKKKK.Arduino UNO...............Automate From Python
+--------------------
